@@ -1,2 +1,3 @@
-# TESGA
-A model for Joint multi-modal entity-relation extraction.
+# Source Code of TESGA
+
+Implementation of Our Paper "Joint multimodal entity-relation extraction based on temporal enhancement and similarity-gated attention" in “Knowledge-Based Systems”. 
