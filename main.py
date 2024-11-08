@@ -8,7 +8,7 @@ import argparse
 import numpy as np
 from utils.metrics import *
 from utils.helper import *
-from model.Multichan_BLIP_retrieval_co import TESGA
+from model.Multichan_BLIP_retrieval_final import TESGA
 from dataloader.dataloader import dataloader
 import torch.optim as optim
 from tqdm import tqdm
