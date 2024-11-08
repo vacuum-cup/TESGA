@@ -1,0 +1,5 @@
+git: https://github.com/YuanLi95/EEGA-for-JMERE?tab=readme-ov-file
+
+
+datasets: 
+https://drive.google.com/drive/folders/1JDWuWN1ClzJBd9FeryJu3XAj7AIC-iRB

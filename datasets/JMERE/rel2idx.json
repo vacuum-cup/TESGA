@@ -1,0 +1,23 @@
+{
+    "couple": 0,
+    "part_of": 1,
+    "alumi": 2,
+    "race": 3,
+    "locate_at": 4,
+    "siblings": 5,
+    "held_on": 6,
+    "contain": 7,
+    "nationality": 8,
+    "religion": 9,
+    "member_of": 10,
+    "place_of_birth": 11,
+    "place_of_residence": 12,
+    "subsidiary": 13,
+    "present_in": 14,
+    "awarded": 15,
+    "parent": 16,
+    "neighbor": 17,
+    "peer": 18,
+    "charges": 19,
+    "alternate_names": 20
+}
